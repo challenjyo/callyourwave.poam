@@ -6,7 +6,7 @@ body
 
 input
     {
-    background-image: url("postcard2.jpg");
+    background-image: url("keyring.png");
     width: 300px;
     height: 300px;
     border: none;
@@ -35,14 +35,12 @@ button
     margin-left: -75px;
     top: 50%;
     margin-top: -200px;
-
-
     }
 
 iframe
     {
-    width: 400px;
-    height: 300px;
+    width: 300px;
+    height: 250px;
     border: none;
     border-radius: 20%;
     position: absolute;
@@ -51,6 +49,6 @@ iframe
     align-items: center;
     top: 50%;
     left: 50%;
-    margin-top: -150px;
-    margin-left: -200px;
+    margin-top: -125px;
+    margin-left: -150px;
     }
