@@ -129,7 +129,7 @@ button
 
 iframe
     {
-    width: 400px;
+    width: 350px;
     height: 300px;
     border: none;
     border-radius: 20%;
@@ -140,5 +140,5 @@ iframe
     top: 50%;
     left: 50%;
     margin-top: -150px;
-    margin-left: -200px;
+    margin-left: -175px;
     }
