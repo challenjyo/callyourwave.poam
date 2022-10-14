@@ -78,13 +78,13 @@ p {
 
 .frame > button {
     position:absolute;
-    border-color: white;
+    border-color: #9AFFFA;
     background-color: black;
     border-radius: 10%;
     color: white;
-    width: 200px;
+    width: 230px;
     left: 50%;
-    margin-left: -100px;
+    margin-left: -115px;
     top: 50%;
     margin-top: 250px;
 }
